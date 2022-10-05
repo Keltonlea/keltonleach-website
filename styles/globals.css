@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  background: #f9edf5;
+}
+
+a {
+  color: #eab5d0;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img.project-link {
+  background-color: #eab5d0;
+  padding: 0.2em;
+  border-radius: 10px;
+}
+
+.project-card {
+  border: 5px solid #eab5d0; 
+}
+
+.profile-image {
+  border-radius: 10%;
+}
+
+@media (max-width: 600px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .home-grid {
+    width: 100%;
+    flex-direction: column;
+  }
+}
