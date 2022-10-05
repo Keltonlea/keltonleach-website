@@ -14,7 +14,7 @@ const userData = {
             id: 2, 
             title: "Flicks Finder",
             link: "https://keltonlea.github.io/Project-1/",
-            imgUrl: "/ProjectImages/flicks.png",
+            imgUrl: "/ProjectImages/ficks.png",
             repo: "https://github.com/Keltonlea/Project-1"
         },
         {
@@ -23,12 +23,13 @@ const userData = {
             link: "https://guarded-bayou-66527.herokuapp.com/",
             imgUrl: "/ProjectImages/ddscreenshot.png",
             repo: "https://github.com/Jean424/DnD-Character-Creater"
+           
         },
         {
             id: 4, 
             title: "Text Editor",
             link: "https://pure-bastion-96627.herokuapp.com/",
-            imgUrl: "/ProjectImages/text-editor.png",
+            imgUrl: "/ProjectImages/text-editor.jpg",
             repo: "https://github.com/Keltonlea/J.A.T.E"
         },
         {
@@ -54,7 +55,7 @@ const userData = {
         {
             id: 7, 
             title: "Team Profile Generator",
-            imgUrl: "/ProjectImages/team.png",
+            imgUrl: "/ProjectImages/team.gif",
             repo: "https://github.com/Keltonlea/team-profile-generator"
         },
         {

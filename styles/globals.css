@@ -30,7 +30,8 @@ img.project-link {
 }
 
 .profile-image {
-  border-radius: 10%;
+  border-radius: 20%;
+ object-fit:contain;
 }
 
 @media (max-width: 600px) {

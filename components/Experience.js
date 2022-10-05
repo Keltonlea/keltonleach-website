@@ -10,6 +10,12 @@ const userData = {
           desc: "A 24-week intensive program focused on gaining technical programming skills in HTML, CSS, JacaScript, jQuery, Responsive Design, Bootstrap, Firebase, Cookies, Local Storage, React.js, MySQL, MongoDB, Express, Security and Session Storage, User Authentication, MERN Stack (MongoDB, Express.js, React.js, Node.js)",
         },
         {
+          title: "Computer Information Systems",
+          company: "Whatcom Community College",
+          year: "2021",
+          desc: "Reviewed the fundamentals of computer operating systems including history, evolution and design, as well as support, maintenance and troubleshooting.",
+        },
+        {
           title: "Customer Serivces Coordinator, Museum Store Manager and Buyer ",
           company: "Whatcom Museum ",
           year: "2010-2016",
@@ -21,7 +27,7 @@ const userData = {
           company: "Washington State University",
           year: "2012",
           companyLink: "https://intel.com",
-          desc: "Graduated with Bachelor's Degree in Social Sciences, with concentrations in Psychology, Politcal Science and Socialogy, and a minor in Business.",
+          desc: "Graduated with Bachelor's Degree in Social Sciences, with concentrations in Psychology, Politcal Science and Sociology, and a minor in Business.",
         },
        
       ]

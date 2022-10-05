@@ -74,7 +74,7 @@ const userData = {
         
           <div className="col-span-1 md:col-span-2">
             <p className="text-xl text-gray-700 mb-4 dark:text-gray-300">
-            Hi! I'm Kelton and I was born in Mountain View, California. After high school I moved to the south 
+            I was born in Mountain View, California. After high school I moved to the south 
              where I attended University of Tennessee before moving back west and earning my bachelors degree in Social Sciences at 
              Washington State University. Currently I live in Bellingham, WA which I am happy
           to call my home for the last 9 years.                 <br></br>
@@ -97,7 +97,6 @@ const userData = {
                     <img src="https://img.icons8.com/color/70/000000/css3.png" alt="css-icon" className="h-20 w-20 mx-2 my-4"/>
                     <img src="https://img.icons8.com/color/70/000000/json--v1.png" alt="json-icon" className="h-20 w-20 mx-2 my-4"/>
                     <img src="https://img.icons8.com/color/70/000000/react-native.png" alt="react-icon" className="h-20 w-20 mx-2 my-4"/>
-                    <img src="https://img.icons8.com/color/70/000000/vue-js.png" alt="view-icon" className="h-20 w-20  mx-2 my-4"/>
                     <img src="https://img.icons8.com/color/70/000000/bootstrap.png" alt="bootstrap-icon" className="h-20 w-20 mx-2 my-4"/>
                     <img src="https://img.icons8.com/color/70/000000/api.png" alt="api-icon" className="h-20 w-20 mx-2 my-4"/>
                     <img src="https://img.icons8.com/ios-filled/70/000000/jquery.png" alt="jquery" className="h-20 w-20 mx-2 my-4"/>
@@ -110,9 +109,7 @@ const userData = {
                     <img src="https://img.icons8.com/color/70/000000/visual-studio-code-2019.png" alt="vs-icon" className="h-20 w-20 my-4"/>
                     <img src="https://img.icons8.com/color/70/000000/github--v1.png" alt="github" className="h-20 w-20 my-4"/>
                     <img src="https://img.icons8.com/color/70/000000/heroku.png" alt="heroku" className="h-20 w-20 my-4"/>
-                    <img src="https://img.icons8.com/color/70/000000/shopify.png" alt="shopify" className="h-20 w-20 my-4"/>
                     <img src="https://img.icons8.com/color/70/000000/wordpress.png" alt="wordpress" className="h-20 w-20 my-4"/>
-                    <img src="https://img.icons8.com/doodle/70/000000/canva.png" alt="canva" className="h-20 w-20 my-4"/>
                 </div>
             </div>
         </div>
