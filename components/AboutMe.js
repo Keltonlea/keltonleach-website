@@ -58,7 +58,7 @@ const userData = {
                 Resume
               </h1>
               <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
-                Download my current <a
+                View my current <a
                   href={userData.resumeUrl}
                   target="__blank"
                   className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300"
