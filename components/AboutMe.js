@@ -75,7 +75,7 @@ const userData = {
           <div className="col-span-1 md:col-span-2">
             <p className="text-xl text-gray-700 mb-4 dark:text-gray-300">
             I was born in Mountain View, California. After high school I moved to the south 
-             where I attended University of Tennessee before moving back west and earning my bachelors degree in Social Sciences at 
+             where I attended University of Tennessee before moving back out west and earning my bachelors degree in Social Sciences at 
              Washington State University. Currently I live in Bellingham, WA which I am happy
           to call my home for the last 9 years.                 <br></br>
                 <br></br>
@@ -83,8 +83,10 @@ const userData = {
                 <br></br>
                 Before becoming a stay at home mom I worked in customer service and product management
           for an art museum. I was ready to continue my education and jump into a field I 
-          felt excited about: web development. I graduated in September 2022 with experience in HTML, CSS, Javascript, jQuery,
-          Bootstrap, the MERN stack, MYSQL, NOSQL, and git. In my spare time I like to spend as much time as possible with my daughter, 
+          felt excited about: web development. I graduated in September 2022 with experience in HTML, CSS, JavaScript,
+          jQuery, Responsive Design, Bootstrap, Firebase, Cookies, Local Storage, React.js, MySQL, MongoDB, Express,
+          Security and Session Storage, User Authentication, and MERN STACK. I am passionate about leveraging my background in psychology,
+          business, and customer service to build more intuitive user experiences on the web. In my spare time I like to spend as much time as possible with my daughter, 
           hike, read, paddle board and travel when I can.             </p>
       
             <h1 className="text-3xl rounded-md px-2 py-1 inline-block font-bold text-gray-50 mt-4" style={{backgroundColor: '#bb91a6'}}>
