@@ -8,8 +8,8 @@ const ContainerBlock = ({ children, ...customMeta }) => {
   const router = useRouter();
 
   const meta = {
-    title: "Kelly Leach - Web Developer",
-    description: `Kelly Leach Web Developing Website`,
+    title: "Kelton Leach - Web Developer",
+    description: `Kelton Leach Web Developing Website`,
     image: "/ProjectImages/aboutImg.png",
     type: "website",
     ...customMeta,
