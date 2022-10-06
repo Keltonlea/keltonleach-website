@@ -83,7 +83,7 @@ const userData = {
                 <br></br>
                 Before becoming a stay at home mom I worked in customer service and product management
           for an art museum. I was ready to continue my education and jump into a field I 
-          felt excited about: web development. I graduated in September 2022 with experience in HTML, CSS, JavaScript,
+          felt excited about: web development. I graduated a full stack coding bootcamp in September 2022 with experience in HTML, CSS, JavaScript,
           jQuery, Responsive Design, Bootstrap, Firebase, Cookies, Local Storage, React.js, MySQL, MongoDB, Express,
           Security and Session Storage, User Authentication, and MERN STACK. I am passionate about leveraging my background in psychology,
           business, and customer service to build more intuitive user experiences on the web. In my spare time I like to spend as much time as possible with my daughter, 
