@@ -1,6 +1,6 @@
 import React from "react";
 import Image from 'next/image'; 
-import profileImg from '../public/ProjectImages/echo.jpg';
+import profileImg from '../public/ProjectImages/echo.png';
 
 const Hero = () => {
   return (
