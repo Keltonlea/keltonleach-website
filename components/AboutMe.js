@@ -8,7 +8,7 @@ const userData = {
           "Hi, I'm Kelton! A Full Stack Web Developer from the Pacific Northwest.",
     },
     email: 'kelton.leach@gmail.com',
-    resumeUrl: 'https://docs.google.com/document/d/1sv7iitIR_aj0HZddgqbVzNv4AwAbfUdMqovmV8mye04/edit'
+    resumeUrl: 'https://docs.google.com/document/d/e/2PACX-1vROJMivmlHWEIpPHotB8RT_YsrFROmFMf5hi5ERYtA7gO9TBAd6hZZaQvqtmHCSJpQX2YoWWJzTqpPW/pub'
 }
 
  const AboutMe = () => {
